@@ -28,6 +28,7 @@ Java, Spring, MyBatis, MySQL을 사용한 게시판 만들기
 ### 3. 메인페이지에서 게시글에 들어갔을 때 게시글을 보여주는 페이지
 
 <img src="https://user-images.githubusercontent.com/87750521/127041400-cdd8d901-f4e4-4e44-96c5-f48937b9195d.png" width="600" height="350">
+
 1) 로그인을 하지 않고 게시글에 들어갔을 때 나타나는 로그인 버튼
 2) 게시글의 내용
 3) 게시글에 같이 업로드된 파일의 이름과 다운로드 버튼
